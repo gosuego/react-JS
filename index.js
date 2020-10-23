@@ -1,5 +1,5 @@
-const sayHello = (name = "Human") => 'Hello ${name}';
-
-const nicolas = sayHello();
-
-console.log(nicolas);
+const human = {
+    name: "Nico",
+    lastName: "Serrano",
+     nationality: "Wish i was korean"
+}
