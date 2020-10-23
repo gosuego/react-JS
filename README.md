@@ -4,3 +4,4 @@
 
 - Arrow Functions
 - Template Literals
+- Object Destructuring
