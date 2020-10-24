@@ -18,6 +18,11 @@
 
 - 사용하지 않는 오래된 버전의 것들을 컴퓨터에 저장하지 않게 해준다.
 
+### react
+
+- We have to return return one components
+- allow many components Use Fragments
+
 ## Screens
 
 - [ ] Home

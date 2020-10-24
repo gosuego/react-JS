@@ -1,6 +1,9 @@
 import React from "react";
 import {HashRouter as Router} from "react-router-dom";
+import Home from "Routes/Home";
 
 export default () => (
-    <Router></Router>
-)
+    <Router>
+        <Route path="/" exact component={Home}/>
+    </Router>
+);
