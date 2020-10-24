@@ -7,3 +7,5 @@
 - Object Destructuring
 - Spread Operator (merge two object)
 - Classes 
+- Array filter
+- Array map
