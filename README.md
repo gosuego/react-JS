@@ -21,4 +21,6 @@
 ## Screens
 
 - [ ] Home
-- [] TV
+- [ ] TV Shows
+- [ ] Search
+- [ ] Detail
