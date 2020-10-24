@@ -1,22 +1,6 @@
-const human = {
-    name: "Nico",
-    lastName: "Serrano",
-     nationality: "Wish i was korean",
-     favFood: {
-         breakfast: "grape",
-         lunch: "meat",
-         dinner:"cheeze"
+const days = ["Mon", "Tues", "Wed"];
+const otherDays = ["Thu", "Fri", "Sat"];
 
-     }
-}
+const allDays = days+otherDays;
 
-const name= human.name;
-
-const {
-    name,
-    lastName,
-    nationality: difName,
-    favFood: {dinner, breakfast, lunch}
-} = human;
-
-console.log(name, lastName, difName, dinner, breakfast, lunch);
+console.log(allDays);
